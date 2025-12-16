@@ -10,10 +10,11 @@ SmartShelfX is an AI-based inventory management system focused on demand forecas
 - Tools: Git, GitHub  
 
 ## Repository Structure
-SmartShelfX_team/
-├── Chethan/   # Individual implementation
-├── Prathap/   # Individual implementation
-├── Prakash/   # Individual implementation
+- SmartShelfX_team/
+  - Chethan/ – Individual implementation
+  - Prathap/ – Individual implementation
+  - Prakash/ – Individual implementation
+
 
 
 Each folder contains **independent implementation work** by the respective team member. There is **no shared or merged codebase**.
